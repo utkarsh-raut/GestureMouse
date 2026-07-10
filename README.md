@@ -25,7 +25,7 @@ Built with **MediaPipe Tasks API**, **OpenCV**, and **PyAutoGUI**.
 | **Navigate** | ☝️ **Index Finger Extended** | Move your hand to drive the cursor. The adaptive filter stabilizes micro-movements automatically. |
 | **Click / Drag** | 🤏 **Pinch (Thumb + Index)** | **Click:** Tap thumb and index together quickly.<br>**Drag:** Pinch, hold, and move. Release to drop. |
 | **Scroll** | ✌️ **Index + Middle Extended** | Move your hand **up/down** to scroll relatively. Speed correlates to your physical hand velocity. |
-| **Drag** | ✊ **Closed Fist** | Safety override. Immediately locks the cursor in place and drops any active drags. |
+| **Drag** | ✊ **Closed Fist** | to move / drag text |
 
 ---
 

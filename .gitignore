@@ -1,11 +1,5 @@
-# Python
+venv/
 __pycache__/
 *.pyc
-
-# Virtual environments
-venv/
-venv311/
-
-# OS / editor junk
 .DS_Store
-.vscode/
+hand_landmarker.task
